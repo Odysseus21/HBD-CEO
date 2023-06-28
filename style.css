@@ -1,0 +1,29 @@
+#main-page {
+  background-color: white;
+  border: 10px solid wheat;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+  margin-top: 15%;
+}
+#button {
+  background-color: blanchedalmond;
+  width: 50%;
+  margin-left: 25%;
+  border: 10px solid wheat;
+}
+.normal {
+  font-family: "Belanosima", sans-serif;
+  font-size: 120px;
+  color: gold;
+}
+.cursive {
+  font-family: "Pacifico", cursive;
+  font-size: 100px;
+  color: purple;
+}
+.par {
+  width: 100%;
+  text-align: center;
+  color: brown;
+}
